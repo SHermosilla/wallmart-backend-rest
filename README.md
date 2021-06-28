@@ -13,6 +13,6 @@ La base de datos enviada, está cargada en un cluster gratuito de prueba de Mong
 es posible ver la cadena de conexion en el arhivo de las variables de entorino ```` .env ```` en la raiz del proyecto, ya que es un proyecto de prueba, está configurada para que púeda ser leída desde cualquier dirección IP
 
 # Imagen Docker
-La imagen Docker del proyecto, se encuentra en el drive  [Imagen Docker Backend](https://drive.google.com/drive/u/0/folders/1Vi_7smD0Aae2DJMMJn6ixoP1x_YUg0vX)  el archivo es:  ```` rest-backend-wallmart.tar ````
+La imagen Docker del proyecto, se encuentra en el drive  [Imagen Docker Backend](https://drive.google.com/drive/folders/1idaPXzQ5JucgwpO9JmoqhgIRJ76r9VKR?usp=sharing)  el archivo es:  ```` rest-backend-wallmart.tar ````
  
  
