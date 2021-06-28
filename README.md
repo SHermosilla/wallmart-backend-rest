@@ -1,6 +1,6 @@
 # Backend REST carro compras desafío wallmart
-
-Se desarrolló como backend de la solucion un pequeño ```` API ```` el cual lee la base de datos entregada en el desafío y entrega la información utilizando la arquitectura ```` REST ````
+Proyecto creado con Node JS y Express
+Se desarrolló como backend de la solucion un  ```` API ```` el cual lee la base de datos entregada en el desafío y entrega la información utilizando la arquitectura ```` REST ````
 
 # Correr la aplicación a modo local
 Antes de correr la aplicación, es importante utilizar el comando  ```nmp install``` para reconstruir módulos de Node en caso de necesitar ejecutar clonando el código fuente
